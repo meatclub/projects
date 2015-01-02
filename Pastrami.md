@@ -1,113 +1,114 @@
-# Pancetta
+# Pastrami
 
-The first-world problem we're often faced with is, "I have pork belly. Do I turn it into Bacon or pancetta?" While the obvious answer is "both", sometimes we only have a limited supply and have to choose one or the other.
+Arguably one of the most important creations in the history of mankind came from a small town in the southeastern part of England in the early 1700s. Here, a man who held titles that included Postmaster General, First Lord of the Admiralty, and Secretary of State for the Northern Department, was also known as a serial gambler. He would stay at the card table for hours upon end, and in order to both sustain himself, and to ensure he could hold his cards in one hand and eat with the other, he requested that his meat be served between 2 slices of bread. Yes, the world became a much better place upon the creation named after John Montagu, the 4th earl of Sandwich. 
 
-This time, we're going to make pancetta. This is an Italian specialty that calls for curing pork belly, then wrapping it and hanging it in a cool, dry place for 3 weeks.
-
-It's spiced differently than Bacon, tending to be made a little less sweet, and a tad more savory and herbaceous. Here is a base recipe for pancetta that uses Juniper Berries and nutmeg, and we're pretty sure that you'll find yourself in your own first-world dilemma next time you're touching a pork belly. 
+Today, Pastrami is the delicatessen meat of lore. Coated with coriander and peppercorns, layered with smoke and char, with one slice of the knife, its pink juices will run down the cutting board, and you'll know right then that if there's any sandwich that's fit for an earl, it's the one you're about to eat.
 
 ## Overall Time
 
-29 days
+5 days
 
 ## Preparation Time
 
-Day 1: 1 hour
+Day 1: 1 hour 30 minutes 
 
-Day 8: 1 hour 30 minutes
+Day 5: Up to 10 hours
 
-Day 29: 30 minutes
+## Equipment Checklist
 
-## Equipment
-
-* Spice grinder
-* Mortar and pestle
+* Stockpot
+* Smoker
+* Oak or mesquite wood chips
+* Roasting pan
+* Meat slicer or sharp chef's knife
+* Kitchen scale
+ 
+If your stockpot will not fit in the refrigerator, find a suitable non-reactive container for storing the brine and briskets for 5 days.
 
 ## Ingredients
 
-* 1 12 lb. pork belly
-* 1 ⅓ tbsp. Instacure No. 1 curing salt
-* ⅔ cup kosher salt
-* ⅓ cup brown sugar
-* 10 cloves garlic
-* 10 bay leaves
-* 30 juniper berries
-* 2 whole nutmegs
-* ⅓ cup black peppercorns
-* 2 sprigs rosemary
-* 6 sprigs thyme
+* 2 (6 lbs. each) beef briskets
+* 2 ½ cups kosher salt
+* 2 tbsp. Instacure No. 1 curing salt
+* 1 cup brown sugar
+* ½ cup honey
+* 8 cloves garlic
+* 10 cloves
+* 10 allspice berries
+* 1 tbsp. black peppercorns
+* 1 tbsp. mustard seeds
+* 1 tbsp. coriander seeds
+* 1 tbsp. crushed red pepper flakes
+* 4 bay leaves
+* 1 2-inch piece ginger
+* 1 gallon water
+* 5 lbs. crushed ice
+
+### For Smoking
+
+* ¼ cup black peppercorns
+* ¼ cup coriander seeds
 
 ## Directions
 
 ### Let's Roll
 
-Measure out all the ingredients from your shopping list, then get ready to prep them as outlined below.
+Measure out all of the ingredients from your shopping list, so that they are ready to work with in the subsequent steps.
 
-### Prepare the Belly
+Set aside ¼ cup black peppercorns and ¼ cup coriander seeds for day 5, to coat the brisket just before smoking.
 
-Divide the pork belly into 2 pieces, roughly 6 pounds each.
+Measure out 1 gallon of water for the brine.
 
-Trim any tough areas of fat or cartilage from the belly.
+### Boil the Ocean
 
-Now, we want to ensure the belly is even, so that when we wrap the pancetta later, there won't be any air pockets, which create a place for unhealthy molds to grow. Trim away any excess fat to ensure that the belly has an even thickness, and cut the sides of the belly to create an even rectangular shape.
+Peel and halve the garlic. Peel and coarsely chop the ginger.
 
-Each piece of belly should be about 5 pounds in size when finished. Keep the trimmed pieces of pork belly for use in other charcuterie projects, like Italian Sausage or Andouille.
+Place 1 gallon of water and all of the ingredients (except for the beef brisket, ice, ¼ cup black peppercorns and ¼ cup coriander seeds) in a large stockpot, and turn the heating element to high.
 
-### Prep the Spices
+Once the water is brought to a boil, reduce to a simmer for 5 minutes. Turn off the heat. Add 5 lbs. ice cubes to the brine in order to quickly bring the liquid down to room temperature.
 
-Mince the garlic. Remove and chop the rosemary leaves. Destem the thyme. Pound the Juniper Berries in a Mortar and Pestle. Grind the whole spices in a Spice Grinder.
+### Submerse the Brisket
 
-Place all of the ingredients in a mixing bowl and stir until mixed together well. Divide the spices equally for use with each of the pork bellies.
+Rinse the brisket under cold water.
 
-### Rub That Belly
+Check the temperature of the brine. Once it is at room temperature, we’re ready to go. Add more ice cubes to bring the temperature down as needed.
 
-Place a plastic tablecloth or numerous trash bags beneath the cutting board at each prep station to catch the loose spices. This will help make cleanup a cinch.
+If your stockpot will not fit in the refrigerator, ladle the brine into a non-reactive container. Label the container __Pastrami: Smoke on {{current_date+4}}__.
 
-Measure out 1 ⅓ tbsp. Instacure No. 1 curing salt, divide it up and place it at each prep station. Place the belly meat side down on a cutting board.
+Submerse the briskets in the brine. Refrigerate for 4 days. Check the brine once per day to ensure the brisket is completely submerged in the liquid.
 
-Wearing food preparation gloves, sprinkle curing salt over each belly and massage it in. Flip, and repeat the process on the other side.
+### Rinse 'er Off
 
-Sprinkle half of the spice mixture over one side of the belly. Massage the spices into the meat until packed on well. Flip, and repeat.
+4 days after brining the briskets, remove it from the brine. Run warm water over the brisket to remove any brining ingredients that may have stuck to it. Dry the briskets off with paper towels.
 
-### Nap Time
+### Apply Spice Coating
 
-Wrap each of the spice-laden pork bellies separately in plastic wrap. Place the wrapped bellies on a baking sheet to catch any leakage.
+Pulverize ¼ cup black peppercorns and ¼ cup coriander seeds in a spice grinder until they reach a medium-fine consistency.
 
-Using masking tape and a Sharpie, label the package Pancetta: Smoke on October 20, 2014. Put the wrapped bellies in the refrigerator for 7 days.
+Sprinkle the spices over each side of both of the briskets.
 
-### Wash 'n' Dry
+### Smoke the Brisket
 
-7 days later, remove each of the pork bellies from the plastic wrap and rinse them off with water to remove the spice rub.
+Using oak or mesquite wood chips, smoke the brisket at 180°F / 82°C until it reaches an internal temperature of 150°F / 65°C. Depending on your smoker and the personality of your brisket, this could take 3 hours, or it could take 6 hours.
 
-Either pat each of the bellies dry with paper towels, or use a Bacon hanger to hang the meat and blow dry with a hair dryer.
-Roll that Belly
-8. Roll that Belly
-Day 8
+Once a meat thermometer shows a reading of 150°F / 65°C in the center, remove the brisket from the smoker.
 
-Measure out 2 tbsp. black peppercorns. Coarsely crush the peppercorns in a Mortar and Pestle. Sprinkle over each side of the bellies.
+### We're Not Done Yet
 
-Grabbing the long end each pork belly, roll it tightly until it is in a cylinder shape.
+Preheat the oven to 275°F / 135°C. 
 
-### Tie 'er Up
+Place 1 inch of water in the bottom of a roasting pan fitted with a rack. Place the briskets on the rack in the roasting pan. Cover the roasting pan with aluminum foil to trap the steam. You may need to put each brisket in its own roasting pan.
 
-Tightly wrap the butcher string around each end of the rolled belly, and tie them off.
+Allow the water to simmer for 2 to 3 hours, until the brisket is fork tender. Check the water occasionally and add more if too much water has evaporated.
 
-Now, run 2 butcher strings lengthwise along the belly, running the string underneath each of the tied strings, so that there is a string along each quadrant of the rolled belly. Leave one foot of string at the top of the pancetta, which we will use to hang the pancetta.
+### Slice and Dice
 
-Finally, tie butcher string around the belly at 1-inch intervals.
+Once the Pastrami is fork tender, remove from the oven to a cutting board and allow to rest for 15 minutes. 
 
-### Hang Time
+Use a meat slicer or a sharp chef's knife to slice the Pastrami. Slice it thin for sandwiches, or dice it thick for pastrami hash.
 
-Hang the pancetta in a cool, dry place for 3 weeks. The optimum conditions are a cool, dry, dark area, such as a basement, at around 60F and 50% humidity.
+### Omnomnom
 
-Use a Sharpie to write Pancetta: Hang until November 3, 2014 on masking tape, which you can then wrap around the hang string.
+Place wax paper on the kitchen scale, and place Pastrami on the wax paper until it reads ½ pound (8 oz.), and fold the wax paper over the Pastrami. Place the Pastrami in butcher paper or sealable freezer storage bags, and label with a Sharpie __Pastrami: made {{current_date}}__. Place in the refrigerator for up to 2 weeks, or the freezer for up to 2 months.
 
-### The Unveiling
-
-After 3 weeks of hang time, the pancetta should be relatively firm to the touch. Cut down the pancetta.
-
-Slice the pancetta in roughly 1-inch intervals, between each of the strings tied width-wise. Place each pancetta round in a separate sealable freezer storage bag. Use a Sharpie to label each bag Pancetta: made on October 13, 2014.
-
-Store in the refrigerator for up to 2 weeks, or in the freezer for up to 2 months.
-
-Please cook the pancetta before consuming it. Dice the pancetta up into small pieces called lardons, saute them, and use them in omelets, sauces, or to make one bitchin' pasta alla carbonara.
+Serve as a standalone meat, in a pastrami hash, or use it to make one mean mother fuckin' Pastrami on rye sammie.
