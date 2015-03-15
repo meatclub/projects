@@ -56,7 +56,7 @@ Place 1 gallon of water, the kosher salt, curing salt, brown sugar, garlic, and 
 
 Once the water is brought to a boil, reduce to a simmer for 5 minutes. Turn off the heat. Add 5 lbs. ice cubes to the brine in order to quickly bring the liquid down to room temperature.
 
-### Trim the Briskey
+### Trim the Brisket
 
 Rinse the brisket under cold water.
 
