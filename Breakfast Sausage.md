@@ -102,7 +102,7 @@ Stuff the meat mixture into the casing and wrap the sausage into a long coil. On
 
 ### Or Carve Up Some Patties
 
-Place the sausage mixture on a baking sheet. Use a rolling pin to flatten the sausage to ¼-inch thicknes. Use a 3- to 4-inch circular cookie cutter to cut out small patties.
+Place the sausage mixture on a baking sheet. Use a rolling pin to flatten the sausage to ¼-inch thickness. Use a 3- to 4-inch circular cookie cutter to cut out small patties.
 
 Cut a number of 4-inch square pieces of wax paper or greaseproof parchment paper. Place one atop and one beneath each patty, so that they won't stick to the other patties when you take them out of the fridge or freezer.
 

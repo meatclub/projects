@@ -79,4 +79,4 @@ Cut the Gravlax into storeable pieces. Wrap the Gravlax in butcher paper or plas
 
 The Gravlax will keep in the fridge for about 5 days.
 
-Slice thinly and serve on a toasted bagel with cream cheese, capers and dill, in an omellette, or with roasted potatoes. 
+Slice thinly and serve on a toasted bagel with cream cheese, capers and dill, in an omelette, or with roasted potatoes.
