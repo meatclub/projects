@@ -21,8 +21,7 @@ Rumor has it that the Berber, an indigenous people of northerhon Africa, called 
 
 ## Ingredients
 
-* 8 lbs. boneless lamb shoulder
-* 2 lbs. pork belly 
+* 10 lbs. boneless lamb shoulder
 * 6 red bell peppers
 * 4 unwaxed lemons
 * ½ head garlic
@@ -58,9 +57,9 @@ At least 30 minutes before using the casing:
 
 Rinse the casing well. Add 4 cups water and 2 tbsp. white wine vinegar to a bowl. Place the casing in the water / vinegar mixture.
 
-### Dice the Meats
+### Dice the Lamb
 
-Dice the lamb shoulder and pork belly into ½ inch pieces and place in the chilled mixing bowls.
+Dice the lamb shoulder into ½ inch pieces and place in the chilled mixing bowls.
 
 Place the diced meat in the freezer during any downtime to keep the meat cold.  
 
