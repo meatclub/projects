@@ -26,8 +26,8 @@ We've been thinking about this recipe for a while, and asked ourselves, "What if
 * 10 cloves garlic
 * 2 tbsp. paprika
 * 1 tbsp. cumin seeds, toasted
-* 1 tbsp. cardamom seeds, toasted
-* 1 tbsp. coriander pods, toasted
+* 1 tbsp. cardamom pods, toasted
+* 1 tbsp. coriander seeds, toasted
 * 2 tbsp. ground turmeric
 * 1 tbsp. dry mustard
 * 1 tsp. cayenne 
