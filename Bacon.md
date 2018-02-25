@@ -12,7 +12,7 @@ After we smoked the Bacon, the next day I received a text message from the wife 
 
 Day 1: 1 hour 30 minutes
 
-Day 8: 6 hours
+Day 8: 6 to 8 hours
 
 ## Equipment
 
@@ -86,11 +86,11 @@ Either pat each of the bellies dry with paper towels, or use a Bacon hanger to h
 
 Divide the 5 lb. pork bellies into 4 equal parts.
 
-This will help the smoking go more quickly, and will make it easier to slice your Bacon.
+If you have a meat slicer, you can skip this step. If you don't have a meat slicer, it's easier to divide up the bacon before smoking, so that it's easier to slice the bacon using your knife after the smoke. Otherwise, it's difficult to cut the entire width of the slab accurately with a knife
 
 ### Smokie the Pig
 
-Place the pork bellies in a smoker set to a temperature of 170°F / 76°C, until the bellies reach an internal temperature of 145°F / 62°C, which should take around 4 hours.
+Place the pork bellies in a smoker set to a temperature of 170°F / 76°C, until the bellies reach an internal temperature of 145°F / 62°C, which should take between 4 to 6 hours.
 
 Apple wood is the smoking wood of choice for this style of Bacon, because it adds a light, fruity layer of smoke. You can also use the wood from other fruit trees such as cherry or pear.
 
@@ -104,4 +104,4 @@ Wrap each ½ lb. of Bacon in wax paper. Place it in butcher paper or sealable fr
 
 If you want to level up your meat freezing mastery, try a vacuum sealer. They're inexpensive, fast, and easy to operate. Most importantly, they'll keep your meat protected in the freezer while looking pro. Really gloss up your game by first vacuum sealing your meat and then wrapping in butcher paper and string with your club sticker. The utility of professional grade freezer storage, but still dressed to impress.
 
-Please cook the Bacon before consuming it. Throw it alongside eggs, eat it by itself, or do what we do: Make BLB's - Bacon, Lettuce, and Beet Sandwiches.
+Please cook the Bacon before consuming it. Preheat your oven to 400°F, place a cooling rack over a cookie sheet, lay the slices on the cooling rack, and bake for 15 minutes. Or just pan-fry it if you're already the bacon fuckin' master.  Throw it alongside eggs, eat it by itself, or do what we do: Make BLB's - Bacon, Lettuce, and Beet Sandwiches.
