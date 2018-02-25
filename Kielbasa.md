@@ -122,6 +122,8 @@ Tie the loose end of casing and push the remaining casing back over the stuffer.
 
 For the individual sausage links, tie a knot in the open end of the casing of each link. Tie butcher twine around the knots at each end of the sausage link, leaving roughly 4 inches of twine between the ends of the Kielbasas.
 
+You can use the butcher twine to hang the sausages inside your smoker, if you wish.
+
 ### Develople the Pellicle
 
 Now, we need to dry out the sausage's external casing to form a pellicle. This will provide a tacky surface to which the smoke will adhere during the smoking process, and will also serve as a way for the Kielbasa to retain its internal moisture.
