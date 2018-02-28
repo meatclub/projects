@@ -106,11 +106,9 @@ Stuff the sausage into the hog casings and wrap the sausage into a long coil. On
 
 ### Toughen that Skin
 
-Place 2 cooling racks each over top a baking sheet to catch any drippings. Put the Linguiça on the cooling rack.
-
 Now, we need to dry out the Linguiça's external casing to form a pellicle. This will provide a tacky surface to which the smoke will adhere during the smoking process, and will also serve as a way for the Linguiça to retain its internal moisture.
 
-Place the cooling racks in the refrigerator overnight.
+Place 2 cooling racks each over top a baking sheet to catch any drippings. Put the Linguiça on the cooling rack. Place in the refrigerator overnight.
 
 ### Day 2: Smoke the Linguiça 
 
