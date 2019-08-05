@@ -12,7 +12,7 @@ So turn your smoker on, pop open a Red Stripe, crank up Toots and the Maytals, a
 
 Day 1: 1.5 hours
 
-Day 2: 4.5 hours
+Day 2: 6.5 hours
 
 ## Equipment Checklist
 
@@ -40,13 +40,13 @@ Day 2: 4.5 hours
 
 ### Jerk Rub
 
-* 1/2 bunch green onions
-* 4 Scotch Bonnet peppers
-* 1.5 tbsp. salt
-* 2 tbsp. allspice berries
-* 1 tbsp. black peppercorns
-* 1 tsp. ground mace
-* 2 limes, juiced
+* 1 bunch green onions
+* 8 Scotch Bonnet peppers
+* 3 tbsp. salt
+* 1/4 cup allspice berries
+* 2 tbsp. black peppercorns
+* 2 tsp. ground mace
+* 4 limes, juiced
 
 ### For Smoking
 
@@ -95,7 +95,7 @@ The next day, take the chicken pieces out of the marinade and pat them dry with 
 
 ### Smoke it
 
-Use a combination of mesquite and allspice berries for smoking. Smoke the chicken for around 4 hours at 200°F / 93°C until the internal temperature reaches 165°F / 74°C.
+Use a combination of mesquite and allspice berries for smoking. Smoke the chicken for around 6 hours at 200°F / 93°C until the internal temperature reaches 165°F / 74°C.
 
 ### Yah Mon!
 
