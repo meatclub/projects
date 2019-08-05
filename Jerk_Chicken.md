@@ -43,7 +43,7 @@ Day 2: 6.5 hours
 * 1 bunch green onions
 * 8 Scotch Bonnet peppers
 * 3 tbsp. salt
-* 1/4 cup allspice berries
+* .25 cup allspice berries
 * 2 tbsp. black peppercorns
 * 2 tsp. ground mace
 * 4 limes, juiced
@@ -87,11 +87,11 @@ Put on your food preparation gloves. Place the chicken in large glass bowls or b
 
 ### Prep the Rub
 
-Juice the 2 limes. Add the lime juice, green onions, Scotch Bonnet peppers, salt, mace, ground allspice and ground black peppercorns in a food processor or blender and process until well mixed. You can do this step either the day before or the day of.
+Juice the limes. Add the lime juice, green onions, Scotch Bonnet peppers, salt, mace, ground allspice and ground black peppercorns in a food processor or blender and process until well mixed. You can do this step either the day before or the day of.
 
 ### Rub it in why don't ya, jerk!
 
-The next day, take the chicken pieces out of the marinade and pat them dry with paper towels. Coat the individual chicken pieces with the jerk rub.
+The next day, take the chicken pieces out of the marinade and pat them dry with paper towels. Coat the individual chicken pieces with the jerk rub. There will be some rub left over for dipping and sweating.
 
 ### Smoke it
 
