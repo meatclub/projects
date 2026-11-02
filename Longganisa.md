@@ -1,5 +1,7 @@
 # Longganisa
 
+_This project is also published on [Meat Club](https://meatclub.in/projects/longganisa/), with a photo for every step._
+
 Longganisa originated in Spain, where it's spelled Longaniza. But it's a sausage that has migrated to many different countries, including Portugal, Brazil, Argentina, Chile, and... wait for it... the Philippines. Weird, right? But, the Philippines were first discovered by Magellan in 1521, and became a Spanish colony for the following 3 centuries, during which time Longganisa became the official national sausage of the Philippines. That's right, folks - some countries have national anthems, others have national sausages.
 
 You can find Longganisa on any island across the archipelago, with each island producing a variation that they call their own. We're featuring a sweet and garlicky style of Longganisa from the Central Luzon province of Pampanga, which is just northwest of Manila. You might giggle at the 2- to 3-inch chubbies that these produce, but this is Meat Club after all, where such things are appropriate.

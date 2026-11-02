@@ -1,5 +1,7 @@
 # Bratwurst
 
+_This project is also published on [Meat Club](https://meatclub.in/projects/bratwurst/), with a photo for every step._
+
 The first written record of Bratwurst appeared in 1313 in Nuremburg, Germany. Neighboring regions adopted and altered the recipe, and in 1432 the Germans created the _Fleischverordnung_, a meat purity law that governed the production of Bratwurst. Even in the U.S., Sheboygan, Wisconsin claimed Bratwurst as its own in the 1920s.
 
 While some secretly guard their Bratwurst recipes, others adhere to strict processes for cooking and serving the delicacy. Brats can be simmered in beer or vinegar-onion broth, but German purists argue they must be grilled over a Beechwood fire. Even the Sheboyganonianites argue you can only serve them in Bratwurst buns or Sheboygan rolls, and if you use ketchup or ballpark yellow mustard you will be hunted to the ends of the earth. 

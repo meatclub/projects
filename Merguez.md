@@ -1,5 +1,7 @@
 # Merguez
 
+_This project is also published on [Meat Club](https://meatclub.in/projects/merguez/), with a photo for every step._
+
 Merguez is a spicy lamb sausage that originates from northern Africa. It is a deep red in color, thanks to diced roasted red bell peppers, harissa, paprika, and chili pepper flakes. This particular variant calls for lemon zest and chopped mint to give it high notes that will create what we think is a pretty fantastic balance.
 
 Rumor has it that the Berber, an indigenous people of northerhon Africa, called this creation Merguez because of its phallic shape. Yes, even our ancestors made sausage jokes at Meat Club.

@@ -1,5 +1,7 @@
 # Mexican Chorizo
 
+_This project is also published on [Meat Club](https://meatclub.in/projects/mexican-chorizo/), with a photo for every step._
+
 What’s shockingly red and makes your nose tingle before you even smell it? Mexican Chorizo, the legendary spicy sausage that uses a foundation of various chili powders. Add ancho, guajillo and pasilla chilies for a smoky, earthy heat, then mix in paprika, garlic, herbs, vinegar, and a shot of your finest Tequila (one for the meat and one for you). One bite and you'll start to smell the Sonoran desert and feel the sting of a scorpion in your boot.
  
 You can case this sausage if you want. However, the casing just makes storage and transportation easier, and it’s usually removed before cooking. Since we’re not going far, we prefer to keep it loose.

@@ -1,5 +1,7 @@
 # Pastrami
 
+_This project is also published on [Meat Club](https://meatclub.in/projects/pastrami/), with a photo for every step._
+
 Arguably one of the most important creations in the history of mankind came from a small town in the southeastern part of England in the early 1700s. Here, a man who held titles that included Postmaster General, First Lord of the Admiralty, and Secretary of State for the Northern Department, was also known as a serial gambler. He would stay at the card table for hours upon end, and in order to both sustain himself, and to ensure he could hold his cards in one hand and eat with the other, he requested that his meat be served between 2 slices of bread. Yes, the world became a much better place upon the creation named after John Montagu, the 4th earl of Sandwich. 
 
 Today, Pastrami is the delicatessen meat of lore. Coated with coriander and peppercorns, layered with smoke and char, with one slice of the knife, its pink juices will run down the cutting board, and you'll know right then that if there's any sandwich that's fit for an earl, it's the one you're about to eat.

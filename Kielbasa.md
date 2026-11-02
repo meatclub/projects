@@ -1,5 +1,7 @@
 # Kielbasa
 
+_This project is also published on [Meat Club](https://meatclub.in/projects/kielbasa/), with a photo for every step._
+
 In the infamous words of Tenacious D, "I love ya baby, but all I can think about is Kielbasa sausage."
 
 _Kiełbasa_ is a Polish term that just means "sausage", and in Poland there are hundreds of different styles of Kielbasa. In English, however, Kielbasa refers to a particular style of Polish sausage.

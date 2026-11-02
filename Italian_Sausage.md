@@ -1,5 +1,7 @@
 # Italian Sausage
 
+_This project is also published on [Meat Club](https://meatclub.in/projects/italian-sausage/), with a photo for every step._
+
 When Italians have a hefty amount of leftover pork shoulder, they grind it up and make a sausage similar to what's featured in this recipe. There are a thousand variations to making Italian Sausage, so feel free to shift things up to make it sweeter, hotter, or more herbaceous.
 
 You can make this recipe either by packing the sausage loosely, or casing it in 6-inch links. Add it to tomato sauces or throw it in a hoagie on gameday. With Italian Sausage, you simply can't go wrong.

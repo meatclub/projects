@@ -1,5 +1,7 @@
 # Linguiça
 
+_This project is also published on [Meat Club](https://meatclub.in/projects/linguica/), with a photo for every step._
+
 Every Spanish and Portuguese speaking country has its own version of Linguiça. This particular smoke-cured Portuguese pork sausage is laden with garlic, paprika, has a zingy heat, and will really pep up the caldo verde you're going to make.
 
 We all know that guy who carries around a jar of Tabasco sauce so he can spice up anything you serve him. This will be the one recipe that you can serve to that guy, where he'll taste it, look you in the eyes with a bewildered expression, then whisper to you, "This is fucking perfect."

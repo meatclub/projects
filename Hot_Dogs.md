@@ -1,5 +1,7 @@
 # Hot Dogs
 
+_This project is also published on [Meat Club](https://meatclub.in/projects/hot-dogs/), with a photo for every step._
+
 A friend once said, "Once I bought a foot-long hot dog at a truck stop, and my mom looked at me and said, ‘Why do you eat those? Don't you know they're made of hooves and toenails?’" While no one really knows if Hot Dogs are made from hooves and toenails, or lips and assholes, we're pretty sure they're made of shit ingredients.
 
 Let's get back to making dogs using the real deal: beef short ribs. That's right, fuck yeah. We're going to make this almost the same way that Austrian immigrants made wieners, known as sausages from Wien (or Vienna as we call it), over a century ago.

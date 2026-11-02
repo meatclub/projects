@@ -1,5 +1,7 @@
 # Bacon
 
+_This project is also published on [Meat Club](https://meatclub.in/projects/bacon/), with a photo for every step._
+
 This is based on the recipe that kicked off Meat Club. Portland-based chef [Ben Bettinger](https://twitter.com/benbettinger) taught a charcuterie class, and this is the first recipe that he taught me (Ryan) how to make.
 
 After we smoked the Bacon, the next day I received a text message from the wife of a friend whom I took the class with. The text read, "If you haven't tasted the Bacon yet, stop whatever it is you're doing and try it. It's the best Bacon I've ever had!" I immediately cooked the Bacon, and she was right, it was some damn fine Bacon.

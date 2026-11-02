@@ -1,5 +1,7 @@
 # Breakfast Sausage
 
+_This project is also published on [Meat Club](https://meatclub.in/projects/breakfast-sausage/), with a photo for every step._
+
 Back in the day, hungry American farmers needed something to do with the lesser cuts of meat, and used it to make an English-style sausage simply called farmer's sausage. Farming is hard work, they had a lot of this lesser sausage, and since they were only half-awake anyway, they ate this stuff. So it was eventually called Breakfast Sausage. Or something. We don't know, we're not fucking historians. Whatever. 
 
 Regardless, there's no better way to start someone's day than by serving up your sausage, and this one is delicious.

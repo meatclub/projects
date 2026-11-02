@@ -1,5 +1,7 @@
 # Andouille
 
+_This project is also published on [Meat Club](https://meatclub.in/projects/andouille/), with a photo for every step._
+
 Technically speaking, Andouille is a sausage from the Lyon area of France that is made entirely of pork intestines and stomach. Flavorwise, it tastes like you're licking the floor of a barn.
 
 Andouille is more commonly thought of as a New Orleans specialty, and is very similar to another kind of French sausage called Andouillette. As with any specialty sausage that is specific to a region, many will argue about the correct approach to making this sausage. We’re striving for a textured sausage which uses pork that has been ground with the larger die, as well as minced garlic and diced onion to create a coarse internal texture.
